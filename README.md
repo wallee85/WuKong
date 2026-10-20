@@ -27,6 +27,7 @@ Godot 4.7 项目：用 AI 图生 3D 打底、Blender 清理绑定的悟空角色
 | `tools/shots/` | Godot 内取样：`shot_game`（追尾机位）、`shot_cycle`（逐帧循环）、`shot_staff`（持棍角度扫描） |
 | `tools/build_scene.gd` | 程序化生成 `main.tscn` |
 | `tools/capture.gd` | 截图小工具 |
+| `docs/教程_自己改跑步.md` | **零基础手改跑步动画的操作手册**（想在 Blender 里自己摆姿势就看这份） |
 
 ## 角色规格
 
